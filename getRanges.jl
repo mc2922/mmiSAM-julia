@@ -6,7 +6,6 @@ using Gadfly, Cairo, Fontconfig
 nfft_full= 8192                           #size of full FFT for matched filtering
 freq_sampling= 37500.0                    #DAQ sampling frequency
 sound_speed= 1481.0                       #sound speed of water
-
 element = 2
 
 exptype = 1
